@@ -12,4 +12,4 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .npmrc
 .replit
-.package-lock.json
+package-lock.json
